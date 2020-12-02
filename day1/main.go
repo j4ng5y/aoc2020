@@ -66,7 +66,7 @@ func main() {
 	var file string
 	var part int
 	flag.StringVar(&file, "input", "", "The input file to parse")
-	flag.IntVar(&part, "input", 0, "The part of the challenge to display (1/2), all other integers (or no value), displays both")
+	flag.IntVar(&part, "part", 0, "The part of the challenge to display (1/2), all other integers (or no value), displays both")
 	flag.Parse()
 
 	// If the provide input file is blank, error out
