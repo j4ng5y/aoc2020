@@ -14,6 +14,7 @@ OR
 
 you can just head on over the the releases, pick your day, and download the binaries if I happened to have compiled them for you.
 You can easily grab my input files for whatever day using the following:
+
 ```bash
 DAY=1 wget https://raw.githubusercontent.com/j4ng5y/aoc2020/day${DAY}/day${DAY}/input.txt
 ```
