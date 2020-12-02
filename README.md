@@ -14,7 +14,7 @@ OR
 
 you can just head on over the the releases, pick your day, and download the binaries if I happened to have compiled them for you.
 
-## Usage (I'll try to keep these as consistent as possible):
+## Usage (I'll try to keep these as consistent as possible)
 
 ```bash
 Usage of day<N>_<OS>_<ARCH>:
