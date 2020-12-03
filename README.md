@@ -2,12 +2,12 @@
 
 For full visibility and just so my leader board members know I'm doing this myself and not copying answers:
 
-## Running
+## Running the Go Code
 
-If you want to run my code, you should probably have [Go](https://golang.org/dl) installed, but otherwise:
+If you want to run my Go code, you should probably have [Go](https://golang.org/dl) installed, but otherwise:
 
 - `clone this repo`
-- `cd <aoc2020>/day<N>`
+- `cd <aoc2020>/day<N>/go`
 - `go run main.go -input <path to the input file> [-part (1|2)]`
 
 OR
@@ -18,6 +18,10 @@ You can easily grab my input files for whatever day using the following:
 ```bash
 DAY=1 wget https://raw.githubusercontent.com/j4ng5y/aoc2020/day${DAY}/day${DAY}/input.txt
 ```
+
+## Running the Rust Code
+
+if you want to run my Rust code, you should probably have [Rust](https://rustup.rs) (with the standard toolchain such as Cargo and whatnot)
 
 ## Usage (I'll try to keep these as consistent as possible)
 
