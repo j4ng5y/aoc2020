@@ -1,0 +1,12 @@
+[package]
+name = "rust_aoc_day4"
+version = "0.1.0"
+authors = ["Jordan Gregory <gregory.jordan.m@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "rust_day3"
+path = "src/main.rs"
+
+[dependencies]
+structopt = "0.3.21"
